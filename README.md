@@ -4,6 +4,10 @@
 
 ![Project Preview](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
 
+[![Deploy to GitHub Pages](https://github.com/shivammishra121/online_cart/actions/workflows/deploy.yml/badge.svg)](https://github.com/shivammishra121/online_cart/actions/workflows/deploy.yml)
+
+### 🚀 [Live Demo](https://shivammishra121.github.io/online_cart/)
+
 ## 📖 Overview
 This project is an **Order Management & Shopping System** built from scratch using **React**. Unlike standard e-commerce demos, this project explicitly implements custom Data Structures (Stack, Queue, HashMap) and Algorithms (Merge Sort) to handle core business logic, replacing built-in JavaScript methods where educational value is paramount.
 
@@ -50,7 +54,7 @@ It features a **Hidden "Internals" Page** at `/about` that documents these imple
 - **Styling**: Vanilla CSS (CSS Variables, Responsive Grid/Flexbox)
 - **State Management**: Custom React Hooks (`useCart`)
 - **Persistence**: `localStorage` (Data persists on refresh)
-- **Deployed On**: Vercel
+- **Deployed On**: GitHub Pages
 
 ---
 
@@ -80,7 +84,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/online-cart-dsa.git
+   git clone https://github.com/shivammishra121/online_cart.git
    cd online-cart-dsa
    ```
 
